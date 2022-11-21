@@ -10,5 +10,5 @@ free -g
 lscpu
 sleep 1
 top -n 5
-htop
+htop, exit
 echo $?
