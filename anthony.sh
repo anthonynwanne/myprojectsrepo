@@ -1,4 +1,5 @@
 #!/bin/bash
+#script for system analysis
 sudo apt update -y
 sleep 1
 df -h
