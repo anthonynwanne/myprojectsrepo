@@ -9,6 +9,5 @@ free -m
 free -g
 lscpu
 sleep 1
-top -n 5
-htop, exit
+top -n 1
 echo $?
